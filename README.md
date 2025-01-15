@@ -30,3 +30,8 @@ Users ask questions via a simple interface, and the chatbot generates a response
 Temperature: Controls response creativity.
 
 Max Tokens: Determines the maximum length of the response
+
+**Dependencies**
+Install the required libraries: 
+pip install streamlit langchain-core langchain-community python-dotenv
+
